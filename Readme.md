@@ -6,3 +6,7 @@ de código principalmente se usó react en su versión 17, las librerías que es
 formularios he utilizado la librería de código abierto mas popular que es formik que conlleva otra libreria en conjunto para la validacion de los campos de cada entrada,
 así como verificando el tipo de dato que representa, finalmente al mandar los datos por consola se devuelve un objeto con todos los datos capturados para poder
 ser manipulados en un servidor o capturar la solicitud del cliente/usuario.
+
+
+#Instalacion
+Para instalar el proyecto es necesario clonar el repositorio e instalar las dependencias con npm install, despues activar el modo desarrollo con npm run start
