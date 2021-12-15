@@ -8,5 +8,5 @@ así como verificando el tipo de dato que representa, finalmente al mandar los d
 ser manipulados en un servidor o capturar la solicitud del cliente/usuario.
 
 
-#Instalacion
+# Instalacion
 Para instalar el proyecto es necesario clonar el repositorio e instalar las dependencias con npm install, despues activar el modo desarrollo con npm run start
